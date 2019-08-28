@@ -1,0 +1,8 @@
+gunicorn
+imageio
+tqdm
+flask
+pygpar
+keras
+tensorflow-gpu
+ipython
